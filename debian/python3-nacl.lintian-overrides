@@ -1,0 +1,4 @@
+python3-nacl: copyright-without-copyright-notice
+python3-nacl: initial-upload-closes-no-bugs
+python3-nacl: no-manual-page
+python3-nacl: zero-byte-file-in-doc-directory

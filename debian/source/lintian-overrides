@@ -1,0 +1,4 @@
+python-pynacl source: file-without-copyright-information
+python-pynacl source: no-debian-changes
+python-pynacl source: source-contains-prebuilt-windows-binary
+python-pynacl source: source-package-encodes-python-version
